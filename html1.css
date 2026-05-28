@@ -1,0 +1,28 @@
+
+        h1{
+            background-color: aquamarine;
+            color: black;
+        }
+
+        body{
+            background-color: aquamarine;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #box1{
+            background-color: blueviolet;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 20%;
+            width: 20%;
+        }
+
+        #box2{
+            background-color:brown;
+            height: 30%;
+            width: 30%;
+        
+        }
